@@ -15,10 +15,12 @@
 
 - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 
-<div align="center">
+##
+
+<div>
 <a href="https://github.com/Kaique-Parente">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Parente&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Parente&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Parente&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ### 🧰 Languages and Tools
@@ -38,8 +40,6 @@
 <a href = "kaique.parente.game@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "kaique.parente.game@outlook.com"><img src="https://img.shields.io/badge/Outlook-414141?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="www.linkedin.com/in/kaique-parente-da-silva-82697b216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaique-Parente&show_icons=true&theme=transparent)
   
 ![Snake animation](https://github.com/Kaique-Parente/Kaique-Parente/blob/output/github-contribution-grid-snake.svg)
 </div>
