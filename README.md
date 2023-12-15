@@ -1,18 +1,18 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kaique Parente</h1>
+<h1 align="left">Hi dear <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" height="30px">, I'm Kaique Parente</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaique-Parente&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Back-end student, with knowledge of Front-end
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I'm studying TADS at Senac University Center
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ Focused on learning more and more about Java
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **Java**
 
-- ⚡ Fun fact **Oneye 😜**
+- 📸 Fun fact ** I like taking photos**
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 The possibility of creating is what captivates me wost in IT.
 
 ##
 
@@ -23,12 +23,8 @@
 </div>
 
 ### 🧰 Languages and Tools
-<div>
-<img align="center" alt="Dev-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Dev-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div aling="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,git">
 <br/>
 </div>
 
@@ -41,5 +37,5 @@
 <a href="www.linkedin.com/in/kaique-parente-da-silva-82697b216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kaique-Parente/Kaique-Parente/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kaique-Parente/Kaique-Parente/output/github-contribution-grid-snake-dark.svg" />
 
