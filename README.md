@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kaique Parente</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaique-Parente&color=yellow" alt="Profile views" /> </p>
@@ -42,5 +41,5 @@
 <a href="www.linkedin.com/in/kaique-parente-da-silva-82697b216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Kaique-Parente/Kaique-Parente/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kaique-Parente/Kaique-Parente/blob/output/github-contribution-grid-snake.svg)
 
