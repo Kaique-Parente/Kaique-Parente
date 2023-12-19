@@ -19,7 +19,7 @@
 <div style="display:flex;">
 <a href="https://github.com/Kaique-Parente">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Parente&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-redme-stats.vercel.app/api/top-langs/?username=Kaique-Parente&layout=compact&langs_count=7&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Parente&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ### 🧰 Languages and Tools
