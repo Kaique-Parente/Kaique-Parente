@@ -4,7 +4,7 @@
 
 - 🔥 Back-end student, with knowledge of Front-end
 
-- 🔭 I'm studying TADS at Senac University Center
+- 🔭 I'm studying ADS at Senac University Center
 
 - ▶️ Focused on learning more and more about Java
 
