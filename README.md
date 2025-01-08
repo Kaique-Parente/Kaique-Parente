@@ -24,7 +24,7 @@
 
 ### 🧰 Languages and Tools
 <div aling="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,javascript,html,css,git">
+<img src="https://skillicons.dev/icons?i=java,mysql,react,javascript,html,css,git,aws,azure,spring,figma,postman">
 <br/>
 </div>
 
