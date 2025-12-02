@@ -16,7 +16,7 @@
 
 ##
 
-<div style="display:flex; width:100%">
+<div style="display:flex">
 <a href="https://github.com/Kaique-Parente">
 <img style="width: 30%; max-width: 650px;" src="https://github-readme-stats-jet-five-63.vercel.app/api?username=Kaique-Parente&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img style="width: 30%; max-width: 650px;" src="https://github-readme-stats-jet-five-63.vercel.app/api/top-langs/?username=Kaique-Parente&layout=compact&langs_count=7&theme=algolia&cache_seconds=1"/>
