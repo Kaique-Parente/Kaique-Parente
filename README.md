@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaique-Parente&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Back-end student, with knowledge of Front-end
+- 🔥 Full Stack Developer
 
 - 🔭 I'm studying ADS at Senac University Center
 
