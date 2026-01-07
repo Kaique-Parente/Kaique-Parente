@@ -24,13 +24,13 @@
 ### 🧰 Languages and Tools
 <div>
 <h4>💻 Backend</h4>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,php,laravel,alpinejs,aws,azure"><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,azure,php,laravel"><br/>
 
 <h4>🌐 Frontend</h4>
-<img src="https://skillicons.dev/icons?i=javascript,nextjs,react,androidstudio,tailwind,figma"><br/>
+<img src="https://skillicons.dev/icons?i=angular,typescript,nextjs,react,javascript,tailwind"><br/>
 
 <h4>🛠 Ferramentas & Integrações</h4>
-<img src="https://skillicons.dev/icons?i=git,bitbucket,postman,selenium"><br/>
+<img src="https://skillicons.dev/icons?i=docker,figma,bitbucket,postman,selenium,androidstudio"><br/>
 <br/>
 </div>
 
