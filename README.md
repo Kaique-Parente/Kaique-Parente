@@ -23,14 +23,19 @@
 
 ### 🧰 Languages and Tools
 <div>
+<h4>☁️ Cloud Computing</h4>
+<img style="height:55px" src="https://skills.syvixor.com/api/icons?perline=15&radius=60&i=amazonwebservices,azure"><br/>
+  
 <h4>💻 Backend</h4>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,azure,php,laravel"><br/>
+<img style="height:55px" src="https://skills.syvixor.com/api/icons?perline=15&radius=60&i=java,spring,springboot,springsecurity,jwt,rabbitmq,rest,mysql,php,laravel"><br/>
+
 
 <h4>🌐 Frontend</h4>
-<img src="https://skillicons.dev/icons?i=angular,typescript,nextjs,react,javascript,tailwind"><br/>
+<img style="height:55px" src="https://skills.syvixor.com/api/icons?perline=15&radius=60&i=angularjs,typescript,nextjs,reactjs,expo,javascript,tailwindcss,swiper,materialui"><br/>
+
 
 <h4>🛠 Ferramentas & Integrações</h4>
-<img src="https://skillicons.dev/icons?i=docker,figma,bitbucket,postman,selenium,androidstudio"><br/>
+<img style="height:55px" src="https://skillicons.dev/icons?i=docker,figma,bitbucket,postman,selenium,androidstudio"><br/>
 <br/>
 </div>
 
