@@ -24,18 +24,19 @@
 ### 🧰 Languages and Tools
 <div>
 <h4>☁️ Cloud Computing</h4>
-<img style="height:55px" src="https://skills.syvixor.com/api/icons?perline=15&radius=60&i=amazonwebservices,azure"><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure"><br/>
   
 <h4>💻 Backend</h4>
-<img style="height:55px" src="https://skills.syvixor.com/api/icons?perline=15&radius=60&i=java,spring,springboot,springsecurity,jwt,rabbitmq,rest,mysql,php,laravel"><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,springsecurity,jwt,rabbitmq,mysql,php,laravel"><br/>
 
 
 <h4>🌐 Frontend</h4>
-<img style="height:55px" src="https://skills.syvixor.com/api/icons?perline=15&radius=60&i=angularjs,typescript,nextjs,reactjs,expo,javascript,tailwindcss,swiper,materialui"><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,typescript,nextjs,react,expo,javascript,tailwindcss,materialui"><br/>
+
 
 
 <h4>🛠 Ferramentas & Integrações</h4>
-<img style="height:55px" src="https://skillicons.dev/icons?i=docker,figma,bitbucket,postman,selenium,androidstudio"><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,figma,bitbucket,postman,selenium,androidstudio"><br/>
 <br/>
 </div>
 
