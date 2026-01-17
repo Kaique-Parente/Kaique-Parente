@@ -4,7 +4,7 @@
 
 - 🔥 Full Stack Developer
 
-- 🔭 I'm studying ADS at Senac University Center
+- 🔭 I have a degree in Systems Analysis and Development from Senac University Center.
 
 - ▶️ Focused on learning more and more about Java
 
