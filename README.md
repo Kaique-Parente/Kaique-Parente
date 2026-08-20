@@ -24,7 +24,7 @@
 ### 🧰 Languages and Tools
 <div>
 <h4>☁️ Cloud Computing</h4>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure"><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp"><br/>
   
 <h4>💻 Backend</h4>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,springsecurity,jwt,rabbitmq,mysql,php,laravel"><br/>
